@@ -1,0 +1,13 @@
+C:\Users\Ksenija Osadcuka\Documents\SCHOOL\BAKALAURA DARBS\praktika\Praktiskas_dalas_piemers\OOP_10_LAB\GoogleSearchProject\GoogleSearch\bin\Release\GoogleSearch.exe.config
+C:\Users\Ksenija Osadcuka\Documents\SCHOOL\BAKALAURA DARBS\praktika\Praktiskas_dalas_piemers\OOP_10_LAB\GoogleSearchProject\GoogleSearch\bin\Release\GoogleSearch.exe
+C:\Users\Ksenija Osadcuka\Documents\SCHOOL\BAKALAURA DARBS\praktika\Praktiskas_dalas_piemers\OOP_10_LAB\GoogleSearchProject\GoogleSearch\bin\Release\GoogleSearch.pdb
+C:\Users\Ksenija Osadcuka\Documents\SCHOOL\BAKALAURA DARBS\praktika\Praktiskas_dalas_piemers\OOP_10_LAB\GoogleSearchProject\GoogleSearch\obj\Release\GoogleSearch.csprojAssemblyReference.cache
+C:\Users\Ksenija Osadcuka\Documents\SCHOOL\BAKALAURA DARBS\praktika\Praktiskas_dalas_piemers\OOP_10_LAB\GoogleSearchProject\GoogleSearch\obj\Release\GoogleSearch.Form1.resources
+C:\Users\Ksenija Osadcuka\Documents\SCHOOL\BAKALAURA DARBS\praktika\Praktiskas_dalas_piemers\OOP_10_LAB\GoogleSearchProject\GoogleSearch\obj\Release\GoogleSearch.Form2.resources
+C:\Users\Ksenija Osadcuka\Documents\SCHOOL\BAKALAURA DARBS\praktika\Praktiskas_dalas_piemers\OOP_10_LAB\GoogleSearchProject\GoogleSearch\obj\Release\GoogleSearch.Form3.resources
+C:\Users\Ksenija Osadcuka\Documents\SCHOOL\BAKALAURA DARBS\praktika\Praktiskas_dalas_piemers\OOP_10_LAB\GoogleSearchProject\GoogleSearch\obj\Release\GoogleSearch.Form4.resources
+C:\Users\Ksenija Osadcuka\Documents\SCHOOL\BAKALAURA DARBS\praktika\Praktiskas_dalas_piemers\OOP_10_LAB\GoogleSearchProject\GoogleSearch\obj\Release\GoogleSearch.Properties.Resources.resources
+C:\Users\Ksenija Osadcuka\Documents\SCHOOL\BAKALAURA DARBS\praktika\Praktiskas_dalas_piemers\OOP_10_LAB\GoogleSearchProject\GoogleSearch\obj\Release\GoogleSearch.csproj.GenerateResource.cache
+C:\Users\Ksenija Osadcuka\Documents\SCHOOL\BAKALAURA DARBS\praktika\Praktiskas_dalas_piemers\OOP_10_LAB\GoogleSearchProject\GoogleSearch\obj\Release\GoogleSearch.csproj.CoreCompileInputs.cache
+C:\Users\Ksenija Osadcuka\Documents\SCHOOL\BAKALAURA DARBS\praktika\Praktiskas_dalas_piemers\OOP_10_LAB\GoogleSearchProject\GoogleSearch\obj\Release\GoogleSearch.exe
+C:\Users\Ksenija Osadcuka\Documents\SCHOOL\BAKALAURA DARBS\praktika\Praktiskas_dalas_piemers\OOP_10_LAB\GoogleSearchProject\GoogleSearch\obj\Release\GoogleSearch.pdb
